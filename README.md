@@ -4,6 +4,8 @@
 **NehaAmbasta9/NehaAmbasta99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<image src="https://media-exp1.licdn.com/dms/image/C5616AQHMRQlgMZuyeQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=dtYHXHvt2rTlWZePOi52vySz63O6pIWtHgP0TG1KXjM" height="200" width="100%"/>
+
 <p float="left">
   I am Neha Ambasta, a passionate developer, web designer, blogger and public speaker.
 </p>
@@ -17,9 +19,7 @@ React Native, React, SQL, Ionic, KendoUI, Knockoutjs, My SQL, Sitecore, SEO Anal
 </p>
 
 ### Watch my webinar on UI/UX
-<p>
-	<a href="https://www.youtube.com/watch?v=zw5TJZsv9YY" target="_blank"> Here </a>
-</p>
+<image src="https://img.youtube.com/vi/zw5TJZsv9YY/maxresdefault.jpg" height="120" width="200"/>
 
 
 ### How to connect with me?
