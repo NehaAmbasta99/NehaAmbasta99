@@ -12,9 +12,9 @@
 
 ### Skills I have
 <p>
-Profecient With:<br/>
+  <b>Profecient With:</b><br/>
 Angular, Angularjs, jQuery, JavaScript, C#, ASP.Net, WebAPI, Design Patterns, HTML,Entity Framework, CSS, Bootstrap<br/>
-Familiar With:<br/>
+  <b>Familiar With:</b><br/>
 React Native, React, SQL, Ionic, KendoUI, Knockoutjs, My SQL, Sitecore, SEO Analysis, PWA, AWS, Docker, Crazy Egg, Swagger, Wordpress, Java, Azure<br/>
 </p>
 
@@ -23,7 +23,7 @@ React Native, React, SQL, Ionic, KendoUI, Knockoutjs, My SQL, Sitecore, SEO Anal
 
 
 ### How to connect with me?
-  ⦿ Follow with me on <a href="https://www.linkedin.com/in/neha-ambasta-236636110/" target="_blank">
+  ⦿ Follow me on <a href="https://www.linkedin.com/in/neha-ambasta-236636110/" target="_blank">
     LinkedIn 
   </a><br>
   ⦿ See my design portfolio on <a href="https://www.behance.net/ambastaneha">Behance</a><br>
