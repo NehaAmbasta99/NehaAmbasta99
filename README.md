@@ -7,7 +7,11 @@
 <image src="https://media-exp1.licdn.com/dms/image/C5616AQHMRQlgMZuyeQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=dtYHXHvt2rTlWZePOi52vySz63O6pIWtHgP0TG1KXjM" height="200" width="100%"/>
 
 <p float="left">
-  I am Neha Ambasta, a passionate developer, web designer, blogger and public speaker.
+  I am Neha Ambasta, a passionate developer, web designer, blogger and public speaker. <br/>
+- 🔭 I’m currently working on Resume Generator Application using React.js <br/>
+- 🌱 I’m currently learning Go, Docker and Kubernetes. <br/>
+- 💬 Ask me about UI/UX, Web development or motivation. :D <br/>
+- ⚡ Fun fact: I love writing poetry, stories and script for the skit.
 </p>
 
 ### Skills I have
